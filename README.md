@@ -18,7 +18,14 @@ At Wermartyr, we offer top-tier validator services to secure various blockchain 
 We also provide comprehensive node services, including:
 - **Full Nodes**: Maintaining full nodes that store the complete blockchain ledger, contributing to the decentralization and resilience of the network.
 - **Light Nodes**: Deploying light nodes that ensure quick access to blockchain data without the need for full ledger storage.
-- **Custom Solutions**: Tailoring node solutions to meet the specific needs of different blockchain networks and projects.
+- **Custom Solutions**: Tailoring node solutions to meet the specific needs of different blockchain networks and projects.'
+
+### Guides
+
+We have some guides for everybody, for example:
+- [**0g Instalation Guide**](https://github.com/Wermartyr/instructions/blob/main/0gInstallation.md)
+- [**Aligned**](https://github.com/Wermartyr/instructions/blob/main/AlignedInstallation.md)
+- [**Artela**](https://github.com/Wermartyr/instructions/blob/main/ArtelaInstallation.md)
 
 ## Why Choose Wermartyr?
 
