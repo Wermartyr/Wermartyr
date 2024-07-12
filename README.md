@@ -42,7 +42,7 @@ Wermartyr is committed to contributing to the blockchain community. We actively 
 
 We'd love to hear from you! Whether you're interested in our services or just want to learn more about what we do, feel free to reach out to us:
 
-- **Twitter**: [@Wermartyr](https://x.com/Wermartyr)
-- **Discord**: [@wermartyr](https://discordapp.com/users/846596268556943393)
+- **Twitter**: **[@Wermartyr](https://x.com/Wermartyr)**
+- **Discord**: **[@wermartyr](https://discordapp.com/users/846596268556943393)**
 
 Join us in building a secure and decentralized future with Wermartyr!
