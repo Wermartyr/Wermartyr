@@ -24,8 +24,8 @@ We also provide comprehensive node services, including:
 
 We have some guides for everybody, for example:
 - [**0g Instalation Guide**](https://github.com/Wermartyr/instructions/blob/main/0gInstallation.md)
-- [**Aligned**](https://github.com/Wermartyr/instructions/blob/main/AlignedInstallation.md)
-- [**Artela**](https://github.com/Wermartyr/instructions/blob/main/ArtelaInstallation.md)
+- [**Aligned Instalation Guide**](https://github.com/Wermartyr/instructions/blob/main/AlignedInstallation.md)
+- [**Artela Instalation Guide**](https://github.com/Wermartyr/instructions/blob/main/ArtelaInstallation.md)
 
 ## Why Choose Wermartyr?
 
