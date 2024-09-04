@@ -26,6 +26,7 @@ We have some guides for everybody, for example:
 - [**0g Instalation Guide**](https://github.com/Wermartyr/instructions/blob/main/0gInstallation.md)
 - [**Aligned Instalation Guide**](https://github.com/Wermartyr/instructions/blob/main/AlignedInstallation.md)
 - [**Artela Instalation Guide**](https://github.com/Wermartyr/instructions/blob/main/ArtelaInstallation.md)
+- [**Xion Installation Guide**](https://github.com/Wermartyr/Xion)
 
 ## Why Choose Wermartyr?
 
